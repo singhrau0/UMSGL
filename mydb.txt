@@ -1,0 +1,2 @@
+sid,sname,addr,course
+1,XYZ,LKO,C++
