@@ -8,7 +8,7 @@ conn = mysql.connector.connect(
 
 cur = conn.cursor()
 
-
+print('hfvbi')
 class deleted:
     def dptdelete(x,id):
         cur.execute(f"delete from department where departmentid={id}")
